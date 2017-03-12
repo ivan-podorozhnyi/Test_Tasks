@@ -1,4 +1,4 @@
-package test4;
+package LineWithoutCrossings;
 
 import java.util.Arrays;
 

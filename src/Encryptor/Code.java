@@ -1,4 +1,4 @@
-package test3;
+package Encryptor;
 
 //this class allows us to create instances which contain all detailed information about this code
 public class Code

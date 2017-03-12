@@ -1,4 +1,4 @@
-package test4;
+package LineWithoutCrossings;
 
 //this class allows us to create coordinates on subspace with two parameters: X and Y
 class Point {
